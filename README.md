@@ -1,59 +1,50 @@
-# 🌐 Animated Portfolio Website
+# 🌐 Priyanshu Raj — Developer Portfolio
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This project gained **85K+ views** on [YouTube]([https://youtube.com/your-video-link](https://youtu.be/ypSc8HEurGQ?si=yI3GJCye3sAKoemW)) – loved by developers and students for its modern design and clean code.
+A modern, responsive personal portfolio website built with React + Vite and Tailwind CSS. Features smooth animations, typing effects, and a working contact form.
 
-## 🚀 Live Demo
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
 
 ## 🛠️ Tech Stack
-
-- ⚛️ React.js
+- ⚛️ React.js + Vite
 - 🎨 Tailwind CSS
-- 💾 Vercel(for deployment)
+- ✍️ React Typing Effect
+- 📧 EmailJS (contact form)
+- ☁️ Vercel (deployment)
 
 ## 📁 Features
-
 - Responsive design for all screen sizes 📱💻
 - Smooth scroll and animation effects ✨
+- Typing animation with multiple roles 🎯
+- Working contact form with EmailJS 📬
 - Clean and modular React components 🧩
-- Easy to customize with Tailwind utility classes 🎯
-- Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
+- Professional sections: Hero, About, Skills, Projects, Contact 👨‍💻
 
-
-## 🧑‍💻 How to Use
+## 🧑‍💻 Getting Started
 
 ### 1. Clone the Repo
-
 ```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
-cd your-repo-name
-````
+git clone https://github.com/priyanshuuuraj/Priyanshu-s-Portfolio-Website.git
+cd Priyanshu-s-Portfolio-Website
+```
 
 ### 2. Install Dependencies
-
 ```bash
 npm install
 ```
 
 ### 3. Run the App
-
 ```bash
-npm start
+npm run dev
 ```
 
 ### 4. Build for Production
-
 ```bash
 npm run build
 ```
 
-## 📹 YouTube Tutorial
+## 📬 Contact
+- GitHub: [@priyanshuuuraj](https://github.com/priyanshuuuraj)
 
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 85K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
 
-## 🌟 Credits
-
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
+---
+⭐ If you like this project, give it a star on GitHub!
