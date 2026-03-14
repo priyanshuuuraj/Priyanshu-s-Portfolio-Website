@@ -4,9 +4,7 @@ import cssLogo from './assets/tech_logo/css.png';
 
 import javascriptLogo from './assets/tech_logo/javascript.png';
 import reactjsLogo from './assets/tech_logo/reactjs.png';
-import angularLogo from './assets/tech_logo/angular.png';
-
-import nextjsLogo from './assets/tech_logo/nextjs.png';
+import sassLogo from './assets/tech_logo/sass.png';
 import tailwindcssLogo from './assets/tech_logo/tailwindcss.png';
 
 import nodejsLogo from './assets/tech_logo/nodejs.png';
@@ -18,7 +16,6 @@ import firebaseLogo from './assets/tech_logo/firebase.png';
 import cppLogo from './assets/tech_logo/cpp.png';
 
 import pythonLogo from './assets/tech_logo/python.png';
-import typescriptLogo from './assets/tech_logo/typescript.png';
 import gitLogo from './assets/tech_logo/git.png';
 import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
@@ -53,9 +50,7 @@ export const SkillsInfo = [
       { name: 'CSS', logo: cssLogo },
       { name: 'JavaScript', logo: javascriptLogo },
       { name: 'React JS', logo: reactjsLogo },
-      { name: 'Angular', logo: angularLogo },
-
-      { name: 'Next JS', logo: nextjsLogo },
+      { name: 'Sass', logo: sassLogo },
       { name: 'Tailwind CSS', logo: tailwindcssLogo },
     ]
 
@@ -79,7 +74,6 @@ export const SkillsInfo = [
       { name: 'C++', logo: cppLogo },
       { name: 'Python', logo: pythonLogo },
       { name: 'JavaScript', logo: javascriptLogo },
-      { name: 'TypeScript', logo: typescriptLogo },
     ],
   },
   {
